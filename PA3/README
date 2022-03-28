@@ -1,0 +1,24 @@
+Algorithm PA3
+=====
+SYNOPSIS:
+
+	./cb <input file name> <output file name>
+=====
+DIRECTORY:
+
+	bin/	  executable binary
+	doc/	  reports
+	inputs/	  input data (unsorted)
+	src/	  source C++ codes
+	utilities/	  checker
+	makefile
+	README
+======
+HOW TO COMPILE:
+
+	make
+======
+HOW TO RUN:
+
+	bin/cb inputs/public_case_1.in outputs/case_1.out
+======

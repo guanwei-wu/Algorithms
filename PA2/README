@@ -1,0 +1,24 @@
+Algorithm PA2
+=====
+SYNOPSIS:
+
+	./mps <input file name> <output file name>
+=====
+DIRECTORY:
+
+	bin/	  executable binary
+	doc/	  reports
+	inputs/	  input data (unsorted)
+	src/	  source C++ codes
+	utilities/	  checker
+	makefile
+	README
+======
+HOW TO COMPILE:
+
+	make
+======
+HOW TO RUN:
+
+	bin/mps inputs/[12/1000/10000/100000].in outputs/[12/1000/10000/100000].out
+======
